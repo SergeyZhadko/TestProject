@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <string name="movies_list_load_error_message">Failed to load movies list</string>
+    <string name="movies_list_load_error_button">Reload</string>
+    <string name="movies_list_load_page_error_message">Failed to load next page</string>
+    <string name="movies_list_load_page_error_button">Retry</string>
+
+</resources>
